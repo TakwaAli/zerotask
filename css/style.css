@@ -1,0 +1,40 @@
+.navbar-brand {
+    color: blue;
+}
+.pra{
+    font-size: 28px;
+    padding: 10px;
+}
+.f-si{
+    font-size: 20px;
+}
+.landing  {
+  
+
+    animation: up-and-down 5s linear infinite;
+}
+.main-title {
+    text-transform: uppercase;
+    margin: 0 auto 80px;
+    border: 2px solid black;
+    padding: 10px 20px;
+    font-size: 30px;
+    width: fit-content;
+    position: relative;
+    z-index: 1;
+    transition: var(--main-transition);
+}
+.ho:hover{
+  background-color: cornflowerblue;
+}
+.sca{
+  
+    position: relative;
+    
+
+}
+.sca:hover img{
+   
+    transform: scale(1.02);
+   
+}
